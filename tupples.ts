@@ -15,3 +15,9 @@ const tea: Drink = ['brown', false, 0];
 
 // Tuple is not used very often in TS
 
+const carSpecs: [number, number] = [400, 3354];
+
+const carStats = {
+    horsepower: 400,
+    weight: 3354
+};
